@@ -19,7 +19,12 @@ This tutorial will assume you have MCell and CellBlender already installed.
 
 # Calcium binding to CaMKII
 
+Download the model file: [Calcium_signalling.blend](MCell-tutorial/Calcium_signalling.blend) 
+
+
 Open Blender. In Blender, open the file 
+
+
 
 
 <!-- ### Header 3 -->
