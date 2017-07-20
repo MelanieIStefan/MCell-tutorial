@@ -1,8 +1,8 @@
 **To do**:
 
-[ ] Stefan lab members: please go through this and check whether you can reproduce the steps. Flag up any problems. It would be useful if you could also time yourself, so we have an idea of how long this takes.
-[ ] Mela: Add more content where needed (biology, MCell links etc.)
-[ ] Mela: Add diagram of what the biology is all about
+- [ ] Stefan lab members: please go through this and check whether you can reproduce the steps. Flag up any problems. It would be useful if you could also time yourself, so we have an idea of how long this takes.
+- [ ] Mela: Add more content where needed (biology, MCell links etc.)
+- [ ] Mela: Add diagram of what the biology is all about
 
 
 
