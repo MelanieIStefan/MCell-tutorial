@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/MelanieIStefan/MCell-tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+The system we are modelling is a simple version of what happens in a synapse upon activation:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Calcium enters the cell through activated NMDA receptors
+- Calcium activates CaMKII 
+- Activated CaMKII enzymatically activates AMPA receptors
 
-```markdown
-Syntax highlighted code block
+**To do**: Expand on the biology
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Getting started with MCell and CellBlender
 
-1. Numbered
-2. List
+This tutorial will assume you have MCell and CellBlender already installed.
 
-**Bold** and _Italic_ and `Code` text
+**To do**: Link to installation instructions on MCell pages
 
-[Link](url) and ![Image](src)
-```
+# Calcium binding to CaMKII
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Open Blender. In Blender, open the file 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MelanieIStefan/MCell-tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!-- ### Header 3 -->
 
-### Support or Contact
+<!-- - Bulleted -->
+<!-- - List -->
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- 1. Numbered -->
+<!-- 2. List -->
+
+<!-- **Bold** and _Italic_ and `Code` text -->
+
+<!-- [Link](url) and ![Image](src) -->
+<!-- ``` -->
+
+<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
+
+<!-- ### Jekyll Themes -->
+
+<!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MelanieIStefan/MCell-tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
+
+<!-- ### Support or Contact -->
+
+<!-- Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
